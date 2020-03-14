@@ -1,7 +1,7 @@
 ## Copyright (c) 2020 AT&T Intellectual Property. All rights reserved.
 
 # CSO-SBoM
-Routines to assist in creating and using Software Bill of Materials for Astra.
+Routines to assist in creating and using Software Bill of Materials.
 This is a work in progress and probably
 not ready to be much use to others as yet, but hopefully will be soon.
 If you'd like to help, read
